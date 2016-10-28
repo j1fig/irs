@@ -1,0 +1,20 @@
+{
+  "name": "solarnext-angular",
+  "version": "0.1.0",
+  "description": "angularJS client for solarnext",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/yellow-energy/solarnext-angular.git"
+  },
+  "keywords": [],
+  "author": "Joao Figueiredo <joaonvfigueiredo@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://solarnext.co",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
